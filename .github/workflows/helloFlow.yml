@@ -1,6 +1,6 @@
 name: Hello Flow
 on:
- push 
+ push: 
    
 jobs:
   first-job:
