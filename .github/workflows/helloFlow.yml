@@ -1,6 +1,6 @@
 name: Hello Flow
 on:
- push: 
+ push
    
 jobs:
   first-job:
@@ -9,4 +9,4 @@ jobs:
       - name: Diga oi
         run: echo "Hello World!"
       - name: Diga valeu
-        run: echo "Valeu - bye!"x'
+        run: echo "Valeu - bye!"
